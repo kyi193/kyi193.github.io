@@ -18,7 +18,7 @@ deploy:
   provider: pages
   skip-cleanup: true
   keep-history: true
-  github-token: $BLOG
+  github-token: $Blog
   local-dir: public
   target-branch: master
   on:
